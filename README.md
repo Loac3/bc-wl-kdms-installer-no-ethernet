@@ -15,7 +15,10 @@ It allows users to run a shell script that downloads all the necessary dependenc
 
 macOS Side
 1. Format a drive partition and make its format ms-dos (Fat32)
-2. Put the folder "arch-pkgs" in the drive partition
+2. Download the packages from the download.txt mediafire link
+3. Download the setup.sh shell script
+4. Put the packages and the shell script in a folder called "arch-pkgs" 
+5. Put the folder "arch-pkgs" in the drive partition that you made on step 1
 
 archiso Side
 1. type lsblk and find the name of the partition you made (You can check with it's size in gb)
