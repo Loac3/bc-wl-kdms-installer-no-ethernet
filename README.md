@@ -8,7 +8,6 @@ It allows users to run a shell script that downloads all the necessary dependenc
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 
