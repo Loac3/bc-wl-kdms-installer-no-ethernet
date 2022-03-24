@@ -31,12 +31,12 @@ station list
 
 ## Credits
 
-Loac#3936 (me)
+Loac#3936 (me) <br>
 Spoon#0001 (Helping me to get the dependencies with the database)
 
 ## License
 
-![alt text](LICENSE.txt)
+![alt text](LICENSE)
 
 ---
 
