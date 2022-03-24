@@ -26,8 +26,8 @@ archiso Side
 
 You should be all done! Now check if you can find your network driver with:
 
-iwctl
-station list
+1. iwctl
+2. station list
 
 ## Credits
 
