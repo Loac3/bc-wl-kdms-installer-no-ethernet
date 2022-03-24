@@ -36,7 +36,7 @@ Spoon#0001 (Helping me to get the dependencies with the database)
 
 ## License
 
-![alt text](LICENSE)
+[LICENSE](LICENSE)
 
 ---
 
