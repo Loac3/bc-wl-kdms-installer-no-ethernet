@@ -5,7 +5,7 @@ I built this project because I spent 4 hours trying to setup arch-linux on macbo
 
 It allows users to run a shell script that downloads all the necessary dependencies to get the proper broadcom-wl driver working
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
