@@ -3,7 +3,7 @@
 
 I built this project because I spent 4 hours trying to setup arch-linux on macbook air 2017 without ethernet cable
 
-It allows users to run a shell script that downloads all the necessary dependencies to get the proper broadcom-wl driver working
+It allows users to run a shell script that installs all the necessary dependencies to get the proper broadcom-wl driver working
 
 ## Table of Contents
 
